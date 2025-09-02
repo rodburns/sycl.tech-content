@@ -5,7 +5,7 @@ external_url: 'contributor: scott
 date: '2025-05-02T09:10:22.153253'
 external_url: 'https://codeplay.com/portal/press-releases/2025/07/02/sycl-10-years'
 title: 'SYCL 10th Anniversary'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-07-02-sycl-10th-anniversary.webp
 pinned: false
 tags:
   - sycl
