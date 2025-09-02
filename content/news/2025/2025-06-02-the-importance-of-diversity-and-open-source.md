@@ -3,7 +3,7 @@ contributor: rod
 date: '2025-06-02T09:10:22.153253'
 external_url: 'https://lfaidata.foundation/communityblog/2025/06/02/the-importance-of-diversity-and-open-source-in-gpu-programming/'
 title: 'The Importance of Diversity and Open Source in GPU Programming'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-06-02-the-importance-of-diversity-and-open-source.webp
 pinned: false
 tags:
   - sycl
