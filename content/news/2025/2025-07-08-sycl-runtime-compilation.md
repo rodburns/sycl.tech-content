@@ -3,7 +3,7 @@ contributor: rod
 date: '2025-07-08T09:10:22.153253'
 external_url: 'https://codeplay.com/portal/blogs/2025/07/08/sycl-runtime-compilation'
 title: 'SYCL Runtime Compilation: A New Way to Specialise Kernels Using C++ Metaprogramming'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-07-08-sycl-runtime-compilation.webp
 pinned: false
 tags:
   - sycl
