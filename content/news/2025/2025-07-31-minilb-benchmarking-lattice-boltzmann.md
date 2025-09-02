@@ -3,7 +3,7 @@ contributor: rod
 date: '2025-07-31T09:10:22.153253'
 external_url: 'https://www.sciencedirect.com/science/article/abs/pii/S0167739X25003279'
 title: 'miniLB: Benchmarking Lattice Boltzmann simulations on AMD, Intel, and NVIDIA GPUs'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-07-31-minilb-benchmarking-lattice-boltzmann.webp
 pinned: false
 tags:
   - sycl
