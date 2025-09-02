@@ -3,7 +3,7 @@ contributor: rod
 date: '2025-07-01T09:10:22.153253'
 external_url: 'https://link.springer.com/article/10.1007/s41781-025-00143-6'
 title: 'Performance Portability of the Particle Tracking Algorithm Using SYCL'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-07-01-performance-portability-of-particle-tracking.webp
 pinned: false
 tags:
   - sycl
