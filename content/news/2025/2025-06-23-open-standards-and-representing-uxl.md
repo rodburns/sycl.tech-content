@@ -3,7 +3,7 @@ contributor: rod
 date: '2025-06-23T09:10:22.153253'
 external_url: 'https://oneapi.io/blog/open-standards-and-representing-the-uxl-foundation-at-isc25/'
 title: 'Open Standards and representing the UXL Foundation at ISC25'
-image: ../../../static/images/news/2025-05-26-celebrating-10-years-of-sycl.webp
+image: ../../../static/images/news/2025-06-23-open-standards-and-representing-uxl.webp
 pinned: false
 tags:
   - sycl
